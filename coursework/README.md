@@ -1,0 +1,5 @@
+# G54PAD coursework
+* Grade: 75 / 100
+* Comments:
+>report: There is a very good introduction to the practical usages and motivations of Bloom filters. There is a reasonable description of how it works, and also a reasonable implementation - matching that Bloom filters are a relatively straightforward -  and interesting that it is done using the TypeScript language. For the analysis it is particularly interesting and commendable that there is a discussion of the use of double hashing ideas to reduce the high cost of computing multiple hash values. The empirical analysis is good in that it uses a set of real URLs as the test sets. It was interesting that the false positive rate mostly agreed with theory, though a bit higher. It was very good that this was studied. The report was very well-written and had very good content for the selected topic.  
+>presentation: The topic was very well explained with good and clear slides. Data structures and algorithms were completely implemented, with a slightly more advanced improvement. Good discussion of complexity, but there was some difficulty in explaining optimal values. Good testing and analysis.
